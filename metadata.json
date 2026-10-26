@@ -1,0 +1,8 @@
+{
+  "name": "MIS Analytics \u0026 Risk Journal",
+  "description": "Hệ thống quản lý, phân tích hiệu suất và kiểm soát rủi ro giao dịch MT5 (XAUUSD / Forex) từ báo cáo đa bảng và Passview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
